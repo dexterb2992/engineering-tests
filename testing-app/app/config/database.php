@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'testing',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => '127.0.0.1',
+			'database'  => 'restaurant-offer',
+			'username'  => 'restaurant-offer',
+			'password'  => 'hIHhFzdG2xlSAS_H',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
